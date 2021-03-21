@@ -1,12 +1,25 @@
-# flutter_app1
+# Flutter Demo
 
 A new Flutter application.
 
 ## Getting Started
+The repo contains a  get starter app that piece togather some functionality like:
 
-This project is a starting point for a Flutter application.
+* Tab View
+* Overflow Menu
+* Floating Action Button
+* Custom Listview
+* Form Input Types
+* API Parsing
 
-A few resources to get you started if this is your first Flutter project:
+Use the app as a base template to build on it.
+
+# ScreenShots
+[image](https://drive.google.com/uc?export=view&id=<14bvsncPtyZrZMBjTQXhR8mf9LsoOAjuY>)
+[image](https://drive.google.com/uc?export=view&id=<1bw-jx111uKVQxxtd3li_DDAHhEKu8EKq>)
+[image](https://drive.google.com/uc?export=view&id=<1m1sUSJH0NbHpqn1SI9IE8rNYKFZ-Z_45>)
+
+**A few resources to get you started :**
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
