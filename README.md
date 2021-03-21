@@ -15,9 +15,9 @@ The repo contains a  get starter app that piece togather some functionality like
 Use the app as a base template to build on it.
 
 # ScreenShots
-[image](https://drive.google.com/uc?export=view&id=<14bvsncPtyZrZMBjTQXhR8mf9LsoOAjuY>)
-[image](https://drive.google.com/uc?export=view&id=<1bw-jx111uKVQxxtd3li_DDAHhEKu8EKq>)
-[image](https://drive.google.com/uc?export=view&id=<1m1sUSJH0NbHpqn1SI9IE8rNYKFZ-Z_45>)
+![image](https://drive.google.com/uc?export=view&id=14bvsncPtyZrZMBjTQXhR8mf9LsoOAjuY)
+![image](https://drive.google.com/uc?export=view&id=1bw-jx111uKVQxxtd3li_DDAHhEKu8EKq)
+![image](https://drive.google.com/uc?export=view&id=1m1sUSJH0NbHpqn1SI9IE8rNYKFZ-Z_45)
 
 **A few resources to get you started :**
 
